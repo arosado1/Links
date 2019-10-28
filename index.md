@@ -16,7 +16,7 @@
 - [HTCondor Quick Start Guide][condor_3]
 - [Condor Manual][condor_4]
 
-Removes jobs: `condor_rm -name schedd cluster`
+Removes jobs: `condor_rm -name schedd cluster`  
 e.g.           condor_rm -name lpcschedd1.fnal.gov 3905087
 
 
