@@ -1,5 +1,5 @@
 # Some commands
-To remove jobs on condor:
+To remove jobs from condor:
 
 `condor_rm -name <schedd> <cluster>`
 
