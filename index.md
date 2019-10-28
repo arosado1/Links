@@ -6,9 +6,8 @@
 - [DJVU to PDF](https://djvu2pdf.com/)
 - [PDF to PNG](https://pdf2png.com/)
 
-### Some links <pre>
+### Some links
 [<img src="https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png" alt="drawing" width="100"/>](https://iris-hep.org/)        [<img src="https://images.ctfassets.net/nrgyaltdicpt/5doLOtX69is0i6WIiY4um/6cc9be15c75155e7b93cd4823b742e44/overleaf_wide_colour_green_bg.png" alt="drawing" width="150"/>](https://www.overleaf.com/project)
-</pre>
 
 
 
