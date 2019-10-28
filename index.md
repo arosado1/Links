@@ -8,6 +8,7 @@
 
 ### Some links
 [![](https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png)](https://iris-hep.org/)
+<img src="https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png" alt="drawing" width="200"/>
 
 ### Condor
 
