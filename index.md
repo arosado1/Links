@@ -7,11 +7,10 @@
 - [PDF to PNG](https://pdf2png.com/)
 
 ### Some links
-[![](https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png)](https://iris-hep.org/)
 [<img src="https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png" alt="drawing" width="100"/>](https://iris-hep.org/)
 
-### Condor
 
+### Condor
 - [Condor Monitoring][condor_1]
 - [Quick Condor Tutorial][condor_2] 
 - [HTCondor Quick Start Guide][condor_3]
