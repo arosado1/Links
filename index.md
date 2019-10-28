@@ -30,3 +30,5 @@ e.g.           condor_rm -name lpcschedd1.fnal.gov 3905087
 [condor_4]: https://htcondor.readthedocs.io/en/v8_9_3/
 [irishep]: https://iris-hep.org/
 [dillinger]: https://dillinger.io/
+
+[some commands](/some_commands.md)
