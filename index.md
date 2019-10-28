@@ -7,7 +7,7 @@
 - [PDF to PNG](https://pdf2png.com/)
 
 ### Some links
-* [IRIS-HEP][irishep]
+[![](https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png)](https://iris-hep.org/)
 
 ### Condor
 
