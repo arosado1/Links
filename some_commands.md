@@ -3,7 +3,7 @@ To remove jobs on condor:
 
 `condor_rm -name <schedd> <cluster>`
 
-e.g. condor_rm -name lpcschedd1.fnal.gov 3905087
+example: `condor_rm -name lpcschedd1.fnal.gov 3905087`
 
 To make histograms from results.root:
 
