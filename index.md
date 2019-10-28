@@ -25,8 +25,3 @@
 [condor_4]: https://htcondor.readthedocs.io/en/v8_9_3/
 [irishep]: https://iris-hep.org/
 [dillinger]: https://dillinger.io/
-
-
-[//]: # (investigate this later
-[![](http://d3.files.namba.kg/files/4029512)](https://github.com/susy2015/ZInvisible)
-)
