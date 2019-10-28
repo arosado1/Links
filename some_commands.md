@@ -1,7 +1,7 @@
 # Some commands
 To remove jobs on condor:
 
-Removes jobs: condor_rm -name schedd cluster
+condor_rm -name <schedd> <cluster>
 
 e.g. condor_rm -name lpcschedd1.fnal.gov 3905087
 
