@@ -7,4 +7,4 @@
 | activate voms | `voms-proxy-init --valid 168:00 -voms cms` | |
 | push branch to remote | `git push <remote>  <local branch>:<new remote branch>` |`git push origin master:devbranch`  |
 
-[Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
+- [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
