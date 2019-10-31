@@ -2,6 +2,7 @@
 
 ### Tool Web Pages
 - [Dillinger][dillinger]
+- [Mermaid Live Editor][mermaid]
 - [CombinePDF](https://combinepdf.com/)
 - [DJVU to PDF](https://djvu2pdf.com/)
 - [PDF to PNG](https://pdf2png.com/)
@@ -27,5 +28,6 @@
 [condor_4]: https://htcondor.readthedocs.io/en/v8_9_3/
 [irishep]: https://iris-hep.org/
 [dillinger]: https://dillinger.io/
+[mermaid]: https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ
 
 [some commands](/some_commands.md)
