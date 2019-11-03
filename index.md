@@ -13,6 +13,8 @@
 [<img src="https://images.ctfassets.net/nrgyaltdicpt/5doLOtX69is0i6WIiY4um/6cc9be15c75155e7b93cd4823b742e44/overleaf_wide_colour_green_bg.png" alt="drawing" width="150"/>](https://www.overleaf.com/project)
 &nbsp;&nbsp; 
 [<img src="https://lh6.googleusercontent.com/J-uMgUClqpWxkqTczqt4HtxbFbQbTahPXukDEUzHuL9ij1XxCtBOaVVANEK5j-6gPyWKD9GVhn8ywruTgGclUHaawOZjdGnMiJDlrNzd3clATqqVZJyLr4WIUTGLMO3zS_3XErHC" alt="drawing" width="100"/>](https://guillermofidalgo.github.io/SSC/)
+&nbsp;&nbsp; 
+[<img src="https://hepsoftwarefoundation.org/images/hsf_logo_angled.png" alt="drawing" width="100"/>](https://hepsoftwarefoundation.org/)
 
 
 
