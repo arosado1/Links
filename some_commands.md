@@ -10,3 +10,7 @@
 # Python related
 
 - [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
+
+# Bash related
+
+- [How to use arrays in bash script](https://linuxconfig.org/how-to-use-arrays-in-bash-script)
