@@ -14,5 +14,3 @@
 # Bash related
 
 - [How to use arrays in bash script](https://linuxconfig.org/how-to-use-arrays-in-bash-script)
-
-- ...
