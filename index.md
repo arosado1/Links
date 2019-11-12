@@ -6,6 +6,7 @@
 - [CombinePDF](https://combinepdf.com/)
 - [DJVU to PDF](https://djvu2pdf.com/)
 - [PDF to PNG](https://pdf2png.com/)
+- [Zety Resume Builder](https://zety.com/)
 
 ### Some links
 [<img src="https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png" alt="drawing" width="100"/>](https://iris-hep.org/)
