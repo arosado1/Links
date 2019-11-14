@@ -7,6 +7,7 @@
 - [DJVU to PDF](https://djvu2pdf.com/)
 - [PDF to PNG](https://pdf2png.com/)
 - [Zety Resume Builder](https://zety.com/)
+- [Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
 ### Some links
 [<img src="https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png" alt="drawing" width="100"/>](https://iris-hep.org/)
