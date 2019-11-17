@@ -14,6 +14,7 @@
 - [CADI: SUS-16-050](http://cms.cern.ch/iCMS/analysisadmin/cadilines?id=1834&ancode=SUS-16-050&tp=an&line=SUS-16-050)
 - [CADI: SUS-16-049](http://cms.cern.ch/iCMS/analysisadmin/cadilines?line=SUS-16-049&tp=an&id=1833&ancode=SUS-16-049)
 - [Gitlab: AN-19-016](https://gitlab.cern.ch/tdr/notes/AN-19-016/)
+- [Particle Data Group Live](http://pdglive.lbl.gov/Viewer.action)
 
 [<img src="https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png" alt="drawing" width="100"/>](https://iris-hep.org/)
 &nbsp;&nbsp;
