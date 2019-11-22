@@ -9,3 +9,6 @@
 - [CMS-HIG-12-036](https://arxiv.org/pdf/1303.4571.pdf) - Le boson de Higgs
 - [CERN-PH-EP-2012-218](https://arxiv.org/pdf/1207.7214.pdf) - Le boson de Higgs
 - [CMS-HIG-12-028](https://arxiv.org/pdf/1207.7235.pdf) - Le boson de Higgs
+
+- [Naturalness](https://arxiv.org/pdf/1307.7879.pdf)
+- [Cancellation of Quantum Correction](https://reader.elsevier.com/reader/sd/pii/055032138290565X?token=29A87D61BCC119F61B26492364BAA7A2AD9972BE1E551163D399D5F25D656D2AD93CC412154AF77AE217144B4CABFF01)
