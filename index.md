@@ -11,6 +11,7 @@
 
 ### Some links
 
+- [Fermilab trainings](https://www-esh.fnal.gov/pls/default/itp.html)
 - [CADI: SUS-16-050](http://cms.cern.ch/iCMS/analysisadmin/cadilines?id=1834&ancode=SUS-16-050&tp=an&line=SUS-16-050), [arXiv paper](https://arxiv.org/pdf/1710.11188.pdf)
 - [CADI: SUS-16-049](http://cms.cern.ch/iCMS/analysisadmin/cadilines?line=SUS-16-049&tp=an&id=1833&ancode=SUS-16-049), [arXiv paper](https://arxiv.org/pdf/1707.03316.pdf)
 - [Gitlab: AN-19-016](https://gitlab.cern.ch/tdr/notes/AN-19-016/)
