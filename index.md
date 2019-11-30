@@ -11,8 +11,7 @@
 
 ### Some links
 
-- [CMSDAS 2020](https://indico.cern.ch/event/843368/)
-- [CMSDAS pre-exercises](https://indico.cern.ch/event/843368/page/18064-pre-exercisesinstructions)
+- [CMSDAS 2020](https://indico.cern.ch/event/843368/):   [pre-exercises](https://indico.cern.ch/event/843368/page/18064-pre-exercisesinstructions)
 - [Fermilab trainings](https://www-esh.fnal.gov/pls/default/itp.html)
 - [CADI: SUS-16-050](http://cms.cern.ch/iCMS/analysisadmin/cadilines?id=1834&ancode=SUS-16-050&tp=an&line=SUS-16-050), [arXiv paper](https://arxiv.org/pdf/1710.11188.pdf)
 - [CADI: SUS-16-049](http://cms.cern.ch/iCMS/analysisadmin/cadilines?line=SUS-16-049&tp=an&id=1833&ancode=SUS-16-049), [arXiv paper](https://arxiv.org/pdf/1707.03316.pdf)
