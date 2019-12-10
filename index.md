@@ -26,12 +26,6 @@
 &nbsp;&nbsp; 
 [<img src="https://hepsoftwarefoundation.org/images/hsf_logo_angled.png" alt="drawing" width="100"/>](https://hepsoftwarefoundation.org/)
 
-### Condor
-- [Condor Monitoring][condor_1]
-- [Quick Condor Tutorial][condor_2] 
-- [HTCondor Quick Start Guide][condor_3]
-- [Condor Manual][condor_4]
-
 
 [//]: # (all links)
 
