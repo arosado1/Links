@@ -12,3 +12,4 @@
 
 - [Naturalness](https://arxiv.org/pdf/1307.7879.pdf)
 - [Cancellation of Quantum Correction](https://reader.elsevier.com/reader/sd/pii/055032138290565X?token=29A87D61BCC119F61B26492364BAA7A2AD9972BE1E551163D399D5F25D656D2AD93CC412154AF77AE217144B4CABFF01)
+- [Higgs Combine](http://cdsweb.cern.ch/record/1379837/files/NOTE2011_005.pdf) - Higgs search procedure
