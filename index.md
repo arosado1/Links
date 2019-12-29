@@ -25,7 +25,7 @@
 [<img src="https://lh6.googleusercontent.com/J-uMgUClqpWxkqTczqt4HtxbFbQbTahPXukDEUzHuL9ij1XxCtBOaVVANEK5j-6gPyWKD9GVhn8ywruTgGclUHaawOZjdGnMiJDlrNzd3clATqqVZJyLr4WIUTGLMO3zS_3XErHC" alt="drawing" width="100"/>](https://guillermofidalgo.github.io/SSC/)
 &nbsp;&nbsp; 
 [<img src="https://hepsoftwarefoundation.org/images/hsf_logo_angled.png" alt="drawing" width="100"/>](https://hepsoftwarefoundation.org/)
-[<img src="https://home.fnal.gov/~klima/LPC_final_large.gif" alt="drawing" width="100"/>](https://lpc.fnal.gov/)
+[<img src="https://home.fnal.gov/~klima/LPC_final_large.gif" alt="drawing" width="50"/>](https://lpc.fnal.gov/)
 
 
 [//]: # (all links)
