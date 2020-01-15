@@ -14,3 +14,8 @@ Tuesday
 * [Muon](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2020Muons) ROC WH11NW: [slides](https://twiki.cern.ch/twiki/pub/CMS/SWGuideCMSDataAnalysisSchoolLPC2020Muons/CMSDAS_LPC_Muons.pdf)
 * [Jets 1](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2020Jets) West Wing WH10NW: [slides](https://indico.cern.ch/event/843368/contributions/3540902/attachments/1967708/3273828/DAS_2020.pdf)
 * [Jets 2](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2020Jets) West Wing WH10NW: [slides]()
+
+Wednesday
+
+* [Coffea](https://indico.cern.ch/event/843368/contributions/3540916/attachments/1969108/3276861/ahall_CoffeaIntro_DAS2020.pdf)
+* [TT+gamma](https://indico.cern.ch/event/843368/contributions/3540916/attachments/1969108/3276814/TTGammaLongExercise_CMSDAS2020.pdf)
