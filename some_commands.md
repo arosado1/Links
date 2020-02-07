@@ -3,8 +3,8 @@
 |description|syntax|example|
 |:--|:--|:--|
 | remove jobs from condor | `condor_rm -name <schedd> <cluster>` | `condor_rm -name lpcschedd1.fnal.gov 3905087` |
-| make histograms from results.root | `./makePlots -f -I <file> -Y <year> -R Data_MET_<year> | grep -v LHAPDF` | |
-| activate voms | `voms-proxy-init --valid 168:00 -voms cms` | |
+| make histograms from results.root | `./makePlots -f -I <file> -Y <year> -R Data_MET_<year> | grep -v LHAPDF` |  |
+| activate voms | `voms-proxy-init --valid 168:00 -voms cms` |  |
 | push branch to remote | `git push <remote>  <local branch>:<new remote branch>` |`git push origin master:devbranch`  |
 | vim multiple word search | `/\vword1|word2|word3` |  `/\vLoose|Mid` |
 | enable Jupyter |ssh ... -L 8yyy:localhost:8yyy  | substitute yyy with a three digits nubmer |
