@@ -7,7 +7,7 @@
 | activate voms | `voms-proxy-init --valid 168:00 -voms cms` | |
 | push branch to remote | `git push <remote>  <local branch>:<new remote branch>` |`git push origin master:devbranch`  |
 | vim multiple word search | `/\vword1|word2|word3` |  `/\vLoose|Mid` |
-| enable Jupyter |ssh YOU@cmslpc-sl7.fnal.gov -L 8yyy:localhost:8yyy  | substitute yyy with a three digits nubmer |
+| enable Jupyter |ssh ... -L 8yyy:localhost:8yyy  | substitute yyy with a three digits nubmer |
 |  open Jupyter notebook| jupyter notebook --no-browser --port 8yyy | substitute yyy with the three digits number |
 
 # Python related
