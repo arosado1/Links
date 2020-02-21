@@ -20,3 +20,7 @@
 - [Process Substitution](http://mywiki.wooledge.org/ProcessSubstitution)
 - [process substitution are not waited](https://unix.stackexchange.com/questions/403783/the-process-substitution-output-is-out-of-the-order)
 - [Long bash command in multiple lines](https://superuser.com/questions/508507/linux-bash-script-single-command-but-multiple-lines)
+
+# LaTex related
+
+- [.cls and .sty files](https://tug.org/pracjourn/2005-3/asknelly/nelly-sty-&-cls.pdf)
