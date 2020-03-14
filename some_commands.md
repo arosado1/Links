@@ -25,3 +25,4 @@
 # LaTex related
 
 - [.cls and .sty files](https://tug.org/pracjourn/2005-3/asknelly/nelly-sty-&-cls.pdf)
+- [catch file between tags](https://texblog.org/2012/12/04/keeping-things-organized-in-large-documents/)
