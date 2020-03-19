@@ -21,6 +21,7 @@
 - [Process Substitution](http://mywiki.wooledge.org/ProcessSubstitution)
 - [process substitution are not waited](https://unix.stackexchange.com/questions/403783/the-process-substitution-output-is-out-of-the-order)
 - [Long bash command in multiple lines](https://superuser.com/questions/508507/linux-bash-script-single-command-but-multiple-lines)
+- [Never say "If" writing a Bash script!](https://www.youtube.com/watch?v=p0KKBmfiVl0)
 
 # LaTex related
 
