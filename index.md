@@ -20,6 +20,7 @@
 - [CADI: SUS-16-050](http://cms.cern.ch/iCMS/analysisadmin/cadilines?id=1834&ancode=SUS-16-050&tp=an&line=SUS-16-050), [arXiv paper](https://arxiv.org/pdf/1710.11188.pdf)
 - [CADI: SUS-16-049](http://cms.cern.ch/iCMS/analysisadmin/cadilines?line=SUS-16-049&tp=an&id=1833&ancode=SUS-16-049), [arXiv paper](https://arxiv.org/pdf/1707.03316.pdf)
 - [Gitlab: AN-19-016](https://gitlab.cern.ch/tdr/notes/AN-19-016/)
+- [APS Session B13](http://meetings.aps.org/Meeting/APR20/Session/B13?showAbstract)
 - [Particle Data Group Live](http://pdglive.lbl.gov/Viewer.action),    [Booklet online](http://pdg.lbl.gov/2019/download/db2018.pdf)
 
 [<img src="https://iris-hep.org/assets/logos/Iris-hep-4-no-long-name.png" alt="drawing" width="100"/>](https://iris-hep.org/)
