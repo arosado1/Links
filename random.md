@@ -7,7 +7,7 @@
 # Category Theory
 
 - [nlab](https://ncatlab.org/nlab/show/HomePage)
-
+- [Annoying Precision](https://qchu.wordpress.com/)
 
 
 ![](https://3.bp.blogspot.com/-YJ7vMuEEYxo/Vmmyw3XN5UI/AAAAAAAAw-w/Hk6uu7gxQvE/s1600/Andromeda-Galaxy-Wallpaper-HD-18.jpg)
