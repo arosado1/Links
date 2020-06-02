@@ -3,6 +3,7 @@
 - [Bulletin of the Atomic Scientists](https://thebulletin.org/)
 - [Luke Smith's Home Page](https://lukesmith.xyz/)
 - [Kaggle](https://www.kaggle.com/)
+- [Institute for Advanced Study (youtube)](https://www.youtube.com/user/videosfromIAS/playlists)
 
 # Category Theory
 
