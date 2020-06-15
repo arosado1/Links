@@ -8,7 +8,7 @@
 # Category Theory
 
 - [nlab](https://ncatlab.org/nlab/show/HomePage)
- - [geometry of physics](https://ncatlab.org/nlab/show/geometry%20of%20physics)
+  - [geometry of physics](https://ncatlab.org/nlab/show/geometry%20of%20physics)
 - [Annoying Precision](https://qchu.wordpress.com/)
 - [Hedonistic Learning](https://www.hedonisticlearning.com/)
 
