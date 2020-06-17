@@ -9,6 +9,7 @@
 
 - [nlab](https://ncatlab.org/nlab/show/HomePage)
   - [geometry of physics](https://ncatlab.org/nlab/show/geometry%20of%20physics)
+  - [example of fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics#examples_of_fiber_bundles_in_physics)
 - [Annoying Precision](https://qchu.wordpress.com/)
 - [Hedonistic Learning](https://www.hedonisticlearning.com/)
 - [Unitary Flow](http://www.unitaryflow.com/)
